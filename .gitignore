@@ -4,6 +4,7 @@ bin/
 lib/
 data/
 # files
+*.iml
 *.txt
 .DS_Store
 test
