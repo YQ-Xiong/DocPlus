@@ -4,7 +4,10 @@ bin/
 lib/
 data/
 # files
+*.txt
 .DS_Store
+test
+train
 corpus
 query
 # libaraies and subdirectories
