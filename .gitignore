@@ -1,8 +1,10 @@
 # directories
+.idea
 bin/
 lib/
 data/
 # files
+.DS_Store
 corpus
 query
 # libaraies and subdirectories
