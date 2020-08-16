@@ -1,0 +1,9 @@
+# directories
+bin/
+lib/
+data/
+# files
+corpus
+query
+# libaraies and subdirectories
+src/org/
